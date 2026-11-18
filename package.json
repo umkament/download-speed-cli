@@ -1,0 +1,12 @@
+{
+  "name": "download-speed-cli",
+  "version": "1.0.0",
+  "description": "Последовательный замер скорости скачивания по URL",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
